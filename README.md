@@ -57,7 +57,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [Rust](https://www.rust-la
 **2. Clone the repo**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/blaxkmiradev/tauri-simple-login.git
 cd tauri-simple-login
 ```
 
